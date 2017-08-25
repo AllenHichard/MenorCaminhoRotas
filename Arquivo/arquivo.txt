@@ -1,0 +1,17 @@
+7
+Reino de Eternia; (1,5)
+Castelo Ti Bum; (4,9)
+Fenda do Biquini; (4,1)
+Narnia; (8,9)
+Forte Bittencourt; (10,6)
+Reino de Thundera; (3,18)
+Castelo de Grayskull; (24,2)
+Reino de Eternia;Fenda do Biquini
+Reino de Eternia;Castelo Ti Bum
+Reino de Eternia;Reino de Thundera
+Castelo Ti Bum;Narnia
+Narnia;Forte Bittencourt
+Narnia;Castelo de Grayskull
+Reino de Thundera;Castelo de Grayskull
+Fenda do Biquini;Castelo de Grayskull
+Forte Bittencourt;Fenda do Biquini
